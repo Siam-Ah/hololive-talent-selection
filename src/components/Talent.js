@@ -18,9 +18,9 @@ export default function Talent({
           handleFavourites(talent.name);
         }}
       >
-        {favourites.includes(talent.name) ? "❤️" : "🤍"}
+        {favourites.has(talent.name) ? "❤️" : "🤍"}
       </span>
-      <img src={talent.avatar} alt={talent.name} />
+      <img src={talent.avatar} alt={talent.name} loading="lazy" />
       <div className="grid-name">{talent.name}</div>
     </div>
   );

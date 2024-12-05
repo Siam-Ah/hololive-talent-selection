@@ -57,12 +57,43 @@
   margin-bottom: 10px;
 }
 
+.carousel img {
+  width: 98%;
+  height: auto;
+  max-height: 400px; /* Adjust to fit your design */
+  object-fit: cover; /* Ensures images don't stretch */
+}
+.carousel {
+  width: 55%;
+  max-width: 500px; /* Keep consistent with .talent-card width */
+  margin: auto; /* Center the carousel */
+}
+
+/* .slick-slide img {
+  border-radius: 50%;
+  border: 2px solid #cce1f2;
+  margin-bottom: 10px;
+} */
+
+.slick-dots {
+  bottom: -20px; /* Adjust spacing for dots */
+}
+
+.slick-dots li button:before {
+  color: #007bff; /* Custom dot color */
+}
+
+.slick-dots li.slick-active button:before {
+  color: #ff6b6b; /* Highlight active dot */
+}
+
 /* Name and Favorite Icon Container */
 .name-container {
   display: flex;
   align-items: center;
   justify-content: center;
   width: 100%;
+  margin-top: 40px;
   margin-bottom: 8px;
 }
 
@@ -250,6 +281,42 @@
   background: #d4e4f8;
 }
 
+.search-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.search-bar {
+  width: 100%;
+  max-width: 400px;
+  padding: 12px 16px;
+  border-radius: 6px;
+  border: 2px solid #cce1f2;
+  background-color: #f5f7fa;
+  color: #5a6d8a;
+  font-size: 14px;
+  transition: border-color 0.3 ease;
+}
+
+.search-bar::placeholder {
+  color: #aab1c3;
+}
+
+.search-bar:focus {
+  outline: none;
+  border-color: #007bff;
+}
+
+.search-bar:hover {
+  border-color: #89c5ff;
+}
+
+.search-bar:focus::placeholder {
+  color: transparent;
+}
+
 /* Mobile Responsiveness */
 @media (max-width: 768px) {
   .container {
@@ -262,5 +329,9 @@
 
   .talent-grid {
     grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+  }
+
+  .search-bar {
+    width: 90%;
   }
 }

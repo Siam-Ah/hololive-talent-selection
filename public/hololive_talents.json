@@ -5,33 +5,78 @@
     "talents": [
       {
         "name": "Tokino Sora",
-        "debutDate": "2017-09-07",
+        "debutDate": "September 7, 2017",
         "catchphrase": "Sora-tomo wa yūjō no akashi",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png",
+          "https://static.wikitide.net/hololivewiki/thumb/6/6b/Tokino_Sora_-_Portrait_06-1-1.png/280px-Tokino_Sora_-_Portrait_06-1-1.png",
+          "https://static.wikitide.net/hololivewiki/thumb/e/e6/Tokino_Sora_-_Portrait_06-2-1.png/280px-Tokino_Sora_-_Portrait_06-2-1.png",
+          "https://static.wikitide.net/hololivewiki/thumb/6/63/Tokino_Sora_-_Portrait_08-1.png/280px-Tokino_Sora_-_Portrait_08-1.png",
+          "https://static.wikitide.net/hololivewiki/thumb/6/6f/Tokino_Sora_-_Portrait_10.png/280px-Tokino_Sora_-_Portrait_10.png",
+          "https://static.wikitide.net/hololivewiki/thumb/1/13/Tokino_Sora_-_Portrait_11.png/280px-Tokino_Sora_-_Portrait_11.png",
+          "https://static.wikitide.net/hololivewiki/thumb/6/69/Tokino_Sora_-_Portrait_09.png/280px-Tokino_Sora_-_Portrait_09.png",
+          "https://static.wikitide.net/hololivewiki/thumb/3/3b/Tokino_Sora_-_Portrait_05-5-1.png/280px-Tokino_Sora_-_Portrait_05-5-1.png"
+        ]
       },
       {
         "name": "Robocosan",
-        "debutDate": "2018-03-04",
+        "debutDate": "March 4, 2018",
         "catchphrase": "Robo-tan no koto wa daisuki desu ka?",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/roboco-san_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/roboco-san_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2020/06/roboco-san_thumb.png",
+          "https://static.wikitide.net/hololivewiki/thumb/7/7e/Roboco_-_Portrait_01-1.png/290px-Roboco_-_Portrait_01-1.png",
+          "https://static.wikitide.net/hololivewiki/thumb/6/6b/Roboco_-_Portrait_07.png/290px-Roboco_-_Portrait_07.png",
+          "https://static.wikitide.net/hololivewiki/thumb/9/9d/Roboco_-_Portrait_02.png/290px-Roboco_-_Portrait_02.png",
+          "https://static.wikitide.net/hololivewiki/thumb/4/42/Roboco_-_Portrait_03.png/290px-Roboco_-_Portrait_03.png",
+          "https://static.wikitide.net/hololivewiki/thumb/e/e8/Roboco_-_Portrait_04.png/290px-Roboco_-_Portrait_04.png",
+          "https://static.wikitide.net/hololivewiki/thumb/5/58/Roboco_-_Portrait_05.png/290px-Roboco_-_Portrait_05.png",
+          "https://static.wikitide.net/hololivewiki/thumb/d/df/Roboco_-_Portrait_06-2.png/290px-Roboco_-_Portrait_06-2.png",
+          "https://static.wikitide.net/hololivewiki/thumb/8/86/Roboco_-_Portrait_08.png/290px-Roboco_-_Portrait_08.png"
+        ]
       },
       {
         "name": "AZKi",
-        "debutDate": "2018-03-04",
+        "debutDate": "November 15, 2018",
         "catchphrase": "Robo-tan no koto wa daisuki desu ka?",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://static.wikitide.net/hololivewiki/thumb/f/f9/AZKi_-_Portrait_04.png/290px-AZKi_-_Portrait_04.png",
+          "https://static.wikitide.net/hololivewiki/thumb/5/51/AZKi_-_Portrait_03.png/290px-AZKi_-_Portrait_03.png",
+          "https://static.wikitide.net/hololivewiki/thumb/0/0a/AZKi_-_Portrait_02-1-1.png/290px-AZKi_-_Portrait_02-1-1.png",
+          "https://static.wikitide.net/hololivewiki/thumb/9/99/AZKi_-_Portrait_02-2-2.png/290px-AZKi_-_Portrait_02-2-2.png",
+          "https://static.wikitide.net/hololivewiki/thumb/e/e6/AZKi_-_Portrait_01.png/290px-AZKi_-_Portrait_01.png"
+        ]
       },
       {
         "name": "Sakura Miko",
-        "debutDate": "2018-03-04",
+        "debutDate": "August 1, 2018",
         "catchphrase": "Robo-tan no koto wa daisuki desu ka?",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/02/Sakura-Miko_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/02/Sakura-Miko_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2023/02/Sakura-Miko_thumb.png",
+          "https://static.wikitide.net/hololivewiki/thumb/5/51/Sakura_Miko_-_Portrait_3D_03.png/280px-Sakura_Miko_-_Portrait_3D_03.png",
+          "https://static.wikitide.net/hololivewiki/thumb/0/05/Sakura_Miko_-_Portrait_3D_01.png/280px-Sakura_Miko_-_Portrait_3D_01.png",
+          "https://static.wikitide.net/hololivewiki/thumb/b/b6/Sakura_Miko_-_Portrait_3D_04-1.png/280px-Sakura_Miko_-_Portrait_3D_04-1.png",
+          "https://static.wikitide.net/hololivewiki/thumb/b/b5/Sakura_Miko_-_Portrait_3D_05-1.png/280px-Sakura_Miko_-_Portrait_3D_05-1.png"
+        ]
       },
       {
         "name": "Hoshimachi Suisei",
-        "debutDate": "2018-03-04",
+        "debutDate": "March 22, 2018",
         "catchphrase": "Robo-tan no koto wa daisuki desu ka?",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Hoshimachi-Suisei_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Hoshimachi-Suisei_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Hoshimachi-Suisei_list_thumb.png",
+          "https://static.wikitide.net/hololivewiki/thumb/1/1f/Hoshimachi_Suisei_-_Portrait_04.png/280px-Hoshimachi_Suisei_-_Portrait_04.png",
+          "https://static.wikitide.net/hololivewiki/thumb/4/4f/Hoshimachi_Suisei_-_Portrait_05-1.png/280px-Hoshimachi_Suisei_-_Portrait_05-1.png",
+          "https://static.wikitide.net/hololivewiki/thumb/e/ec/Hoshimachi_Suisei_-_Portrait_07.png/280px-Hoshimachi_Suisei_-_Portrait_07.png",
+          "https://static.wikitide.net/hololivewiki/thumb/5/5b/Hoshimachi_Suisei_-_Portrait_08.png/280px-Hoshimachi_Suisei_-_Portrait_08.png",
+          "https://static.wikitide.net/hololivewiki/thumb/5/59/Hoshimachi_Suisei_-_Portrait_09.png/280px-Hoshimachi_Suisei_-_Portrait_09.png",
+          "https://static.wikitide.net/hololivewiki/thumb/2/26/Hoshimachi_Suisei_-_Portrait_06-1.png/280px-Hoshimachi_Suisei_-_Portrait_06-1.png"
+        ]
       }
     ]
   },
@@ -41,27 +86,43 @@
     "talents": [
       {
         "name": "Aki Rosenthal",
-        "debutDate": "2018-06-01",
+        "debutDate": "June 07, 2018",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Aki-Rosenthal_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Aki-Rosenthal_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Akai Haato",
-        "debutDate": "2018-06-01",
+        "debutDate": "June 2, 2018",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Akai-Haato_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Akai-Haato_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Shirakami Fubuki",
-        "debutDate": "2018-06-01",
+        "debutDate": "June 1, 2018",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Shirakami-Fubuki_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Shirakami-Fubuki_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Natsuiro Matsuri",
-        "debutDate": "2018-06-01",
+        "debutDate": "June 1, 2018",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Natsuiro-Matsuri_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Natsuiro-Matsuri_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       }
     ]
   },
@@ -71,33 +132,53 @@
     "talents": [
       {
         "name": "Murasaki Shion",
-        "debutDate": "2018-06-01",
+        "debutDate": "August 17, 2018",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2021/12/shion_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2021/12/shion_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Nakiri Ayame",
-        "debutDate": "2018-06-01",
+        "debutDate": "September 3, 2018",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Nakiri-Ayame_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Nakiri-Ayame_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Yuzuki Choco",
-        "debutDate": "2018-06-01",
+        "debutDate": "September 4, 2018",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Yuzuki-Choco_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Yuzuki-Choco_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Oozora Subaru",
-        "debutDate": "2018-06-01",
+        "debutDate": "September 16, 2018",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Oozora-Subaru_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Oozora-Subaru_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "[Alum] Minato Aqua",
-        "debutDate": "2018-06-01",
+        "debutDate": "August 8, 2018",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Minato-Aqua_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Minato-Aqua_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       }
     ]
   },
@@ -107,27 +188,43 @@
     "talents": [
       {
         "name": "Shirakami Fubuki",
-        "debutDate": "2018-06-01",
+        "debutDate": "June 1, 2018",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Shirakami-Fubuki_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Shirakami-Fubuki_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Ookami Mio",
-        "debutDate": "2018-06-01",
+        "debutDate": "December 7, 2018",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/01/Ookami-Mio_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/01/Ookami-Mio_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Nekomata Okayu",
-        "debutDate": "2018-06-01",
+        "debutDate": "April 6, 2019",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Nekomata-Okayu_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Nekomata-Okayu_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Inugami Korone",
-        "debutDate": "2018-06-01",
+        "debutDate": "April 13, 2019",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Inugami-Korone_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Inugami-Korone_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       }
     ]
   },
@@ -137,27 +234,43 @@
     "talents": [
       {
         "name": "Usada Pekora",
-        "debutDate": "2018-06-01",
+        "debutDate": "July 17, 2019",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Usada-Pekora_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Usada-Pekora_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Shiranui Flare",
-        "debutDate": "2018-06-01",
+        "debutDate": "August 7, 2019",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Shiranui-Flare_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Shiranui-Flare_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Shirogane Noel",
-        "debutDate": "2018-06-01",
+        "debutDate": "August 8, 2019",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/01/Shirogane-Noel_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/01/Shirogane-Noel_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Houshou Marine",
-        "debutDate": "2018-06-01",
+        "debutDate": "August 11, 2019",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2021/05/houshou_marine_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2021/05/houshou_marine_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       }
     ]
   },
@@ -167,33 +280,53 @@
     "talents": [
       {
         "name": "Amane Kanata",
-        "debutDate": "2018-06-01",
+        "debutDate": "December 27, 2019",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Amane-Kanata_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Amane-Kanata_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Tsunomaki Watame",
-        "debutDate": "2018-06-01",
+        "debutDate": "December 29, 2019",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Tsunomaki-Watame_list_thumb-1.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Tsunomaki-Watame_list_thumb-1.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Tokoyami Towa",
-        "debutDate": "2018-06-01",
+        "debutDate": "January 3, 2020",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Tokoyami-Towa_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Tokoyami-Towa_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Himemori Luna",
-        "debutDate": "2018-06-01",
+        "debutDate": "January 04, 2020",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/07/Himemori-Luna_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/07/Himemori-Luna_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "[Alum] Kiryu Coco",
-        "debutDate": "2018-06-01",
+        "debutDate": "December 28, 2019",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Kiryu-Coco_list_thumb-1.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Kiryu-Coco_list_thumb-1.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       }
     ]
   },
@@ -203,27 +336,43 @@
     "talents": [
       {
         "name": "Yukihana Lamy",
-        "debutDate": "2018-06-01",
+        "debutDate": "August 12, 2020",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Yukihana-Lamy_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Yukihana-Lamy_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Momosuzu Nene",
-        "debutDate": "2018-06-01",
+        "debutDate": "August 13, 2020 ",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Momosuzu-Nene_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Momosuzu-Nene_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Shishiro Botan",
-        "debutDate": "2018-06-01",
+        "debutDate": "August 14, 2020",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/05/Shishiro-Botan_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/05/Shishiro-Botan_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Omaru Polka",
-        "debutDate": "2018-06-01",
+        "debutDate": "August 16, 2020",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Omaru-Polka_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Omaru-Polka_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       }
     ]
   },
@@ -233,33 +382,53 @@
     "talents": [
       {
         "name": "La+ Darknesss",
-        "debutDate": "2018-06-01",
+        "debutDate": "November 26, 2021",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/05/La-Darknesss_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/05/La-Darknesss_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Takane Lui",
-        "debutDate": "2018-06-01",
+        "debutDate": "November 27th, 2021",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Takane-Lui_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Takane-Lui_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Hakui Koyori",
-        "debutDate": "2018-06-01",
+        "debutDate": "November 28th, 2021",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Hakui-Koyori_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Hakui-Koyori_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Sakamata Chloe",
-        "debutDate": "2018-06-01",
+        "debutDate": "November 29th, 2021",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Sakamata-Chloe_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Sakamata-Chloe_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Kazama Iroha",
-        "debutDate": "2018-06-01",
+        "debutDate": "November 30th, 2021",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Kazama-Iroha_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Kazama-Iroha_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       }
     ]
   },
@@ -269,33 +438,53 @@
     "talents": [
       {
         "name": "Hiodoshi Ao",
-        "debutDate": "2018-06-01",
+        "debutDate": "September 9, 2023",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Hiodoshi-Ao_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Hiodoshi-Ao_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Otonose Kanade",
-        "debutDate": "2018-06-01",
+        "debutDate": "September 9, 2023",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Otonose-Kanade_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Otonose-Kanade_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Ichijou Ririka",
-        "debutDate": "2018-06-01",
+        "debutDate": "September 9, 2023",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Ichijou-Ririka_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Ichijou-Ririka_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Juufuutei Raden",
-        "debutDate": "2018-06-01",
+        "debutDate": "September 10, 2023",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Juufuutei-Raden_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Juufuutei-Raden_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Todoroki Hajime",
-        "debutDate": "2018-06-01",
+        "debutDate": "September 10, 2023",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Todoroki-Hajime_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Todoroki-Hajime_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       }
     ]
   },
@@ -305,33 +494,53 @@
     "talents": [
       {
         "name": "Isaki Riona",
-        "debutDate": "2018-06-01",
+        "debutDate": "November 9, 2024",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/11/Isaki-Riona_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/11/Isaki-Riona_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Koganei Niko",
-        "debutDate": "2018-06-01",
+        "debutDate": "November 9, 2024",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/11/Koganei-Niko_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/11/Koganei-Niko_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Mizumiya Su",
-        "debutDate": "2018-06-01",
+        "debutDate": "November 9, 2024",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/11/Mizumiya-Su_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/11/Mizumiya-Su_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Rindo Chihaya",
-        "debutDate": "2018-06-01",
+        "debutDate": "November 9, 2024",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/11/Rindo-Chihaya_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/11/Rindo-Chihaya_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Kikirara Vivi",
-        "debutDate": "2018-06-01",
+        "debutDate": "November 9, 2024",
         "catchphrase": "Kyun kyun Rosentai!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/11/Kikirara-Vivi_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/11/Kikirara-Vivi_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       }
     ]
   },
@@ -341,33 +550,53 @@
     "talents": [
       {
         "name": "Mori Calliope",
-        "debutDate": "2020-09-12",
+        "debutDate": "September 12, 2020",
         "catchphrase": "Your boy’s a VTuber rapper",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Mori-Calliope_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Mori-Calliope_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Takanashi Kiara",
-        "debutDate": "2020-09-12",
+        "debutDate": "September 12, 2020",
         "catchphrase": "Your boy’s a VTuber rapper",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/01/Takanashi-Kiara_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/01/Takanashi-Kiara_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Ninomae Ina’nis",
-        "debutDate": "2020-09-12",
+        "debutDate": "September 13, 2020",
         "catchphrase": "Your boy’s a VTuber rapper",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2022/04/%E3%81%84%E3%81%AA%E3%81%AB%E3%81%99.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2022/04/%E3%81%84%E3%81%AA%E3%81%AB%E3%81%99.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Gawr Gura",
-        "debutDate": "2020-09-13",
+        "debutDate": "September 13, 2020",
         "catchphrase": "A!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/05/Gawr-Gura_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/05/Gawr-Gura_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "[Affiliate] Watson Amelia",
-        "debutDate": "2020-09-13",
+        "debutDate": "September 13, 2020",
         "catchphrase": "A!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2022/04/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%A2.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2022/04/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%A2.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       }
     ]
   },
@@ -377,39 +606,63 @@
     "talents": [
       {
         "name": "Ceres Fauna",
-        "debutDate": "2021-08-23",
+        "debutDate": "August 23, 2021",
         "catchphrase": "Nature loves you!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/10/Ceres-Fauna_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/10/Ceres-Fauna_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Ouro Kronii",
-        "debutDate": "2021-08-23",
+        "debutDate": "August 23, 2021",
         "catchphrase": "Nature loves you!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/10/Ouro-Kronii_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/10/Ouro-Kronii_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Nanashi Mumei",
-        "debutDate": "2021-08-23",
+        "debutDate": "August 23, 2021",
         "catchphrase": "Nature loves you!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/10/Nanashi-Mumei_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/10/Nanashi-Mumei_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Hakos Baelz",
-        "debutDate": "2021-08-23",
+        "debutDate": "August 23, 2021",
         "catchphrase": "Nature loves you!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/10/Hakos-Baelz_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/10/Hakos-Baelz_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "IRyS",
-        "debutDate": "2021-08-23",
+        "debutDate": "July 11, 2021",
         "catchphrase": "Space is amazing!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/IRyS_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/IRyS_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "[Alum] Tsukumo Sana",
-        "debutDate": "2021-08-23",
+        "debutDate": "22 August, 2021",
         "catchphrase": "Space is amazing!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2021/08/%E4%B9%9D%E5%8D%81%E4%B9%9D-%E4%BD%90%E5%91%BD-1.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2021/08/%E4%B9%9D%E5%8D%81%E4%B9%9D-%E4%BD%90%E5%91%BD-1.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       }
     ]
   },
@@ -419,33 +672,53 @@
     "talents": [
       {
         "name": "Shiori Novella",
-        "debutDate": "2021-08-23",
+        "debutDate": "July 30, 2023",
         "catchphrase": "Nature loves you!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2021/07/Shiori-Novella_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2021/07/Shiori-Novella_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Koseki Bijou",
-        "debutDate": "2021-08-23",
+        "debutDate": "July 30, 2023",
         "catchphrase": "Nature loves you!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Koseki-Bijou_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Koseki-Bijou_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Nerissa Ravencroft",
-        "debutDate": "2021-08-23",
+        "debutDate": "July 31, 2023",
         "catchphrase": "Nature loves you!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Nerissa-Ravencroft_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Nerissa-Ravencroft_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Fuwawa Abyssgard",
-        "debutDate": "2021-08-23",
+        "debutDate": "July 31, 2023",
         "catchphrase": "Nature loves you!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Fuwawa-Abyssgard_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Fuwawa-Abyssgard_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Mococo Abyssgard",
-        "debutDate": "2021-08-23",
+        "debutDate": "July 31, 2023",
         "catchphrase": "Space is amazing!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Mococo-Abyssgard_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Mococo-Abyssgard_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       }
     ]
   },
@@ -455,27 +728,43 @@
     "talents": [
       {
         "name": "Elizabeth Rose Bloodflame",
-        "debutDate": "2021-08-23",
+        "debutDate": "June 21, 2024",
         "catchphrase": "Nature loves you!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Elizabeth-Rose-Bloodflame_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Elizabeth-Rose-Bloodflame_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Gigi Murin",
-        "debutDate": "2021-08-23",
+        "debutDate": "June 21, 2024",
         "catchphrase": "Nature loves you!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Gigi-Murin_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Gigi-Murin_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Cecilia Immergreen",
-        "debutDate": "2021-08-23",
+        "debutDate": "June 22, 2024",
         "catchphrase": "Nature loves you!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Cecilia-Immergreen_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Cecilia-Immergreen_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Raora Panthera",
-        "debutDate": "2021-08-23",
+        "debutDate": "June 22, 2024",
         "catchphrase": "Nature loves you!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Raora-Panthera_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Raora-Panthera_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       }
     ]
   },
@@ -485,21 +774,33 @@
     "talents": [
       {
         "name": "Ayunda Risu",
-        "debutDate": "2020-04-10",
+        "debutDate": "April 10, 2020",
         "catchphrase": "Risu-risu time!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2022/04/%E3%83%AA%E3%82%B9-1.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2022/04/%E3%83%AA%E3%82%B9-1.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Moona Hoshinova",
-        "debutDate": "2020-04-10",
+        "debutDate": "April 11, 2020",
         "catchphrase": "Yee~",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2022/04/%E3%83%A0%E3%83%BC%E3%83%8A-1.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2022/04/%E3%83%A0%E3%83%BC%E3%83%8A-1.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Airani Iofifteen",
-        "debutDate": "2020-04-10",
+        "debutDate": "April 12, 2020",
         "catchphrase": "Yee~",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2022/04/%E3%82%A4%E3%82%AA%E3%83%95%E3%82%A3-1.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2022/04/%E3%82%A4%E3%82%AA%E3%83%95%E3%82%A3-1.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       }
     ]
   },
@@ -509,21 +810,33 @@
     "talents": [
       {
         "name": "Kureiji Ollie",
-        "debutDate": "2020-04-10",
+        "debutDate": "December 4, 2020",
         "catchphrase": "Risu-risu time!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Kureiji-Ollie_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Kureiji-Ollie_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Anya Melfissa",
-        "debutDate": "2020-04-10",
+        "debutDate": "December 5, 2020",
         "catchphrase": "Yee~",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Anya-Melfissa_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Anya-Melfissa_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Pavolia Reine",
-        "debutDate": "2020-04-10",
+        "debutDate": "December 6, 2020",
         "catchphrase": "Yee~",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Pavolia-Reine_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Pavolia-Reine_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       }
     ]
   },
@@ -533,21 +846,33 @@
     "talents": [
       {
         "name": "Vestia Zeta",
-        "debutDate": "2020-04-10",
+        "debutDate": "March 25, 2022",
         "catchphrase": "Risu-risu time!",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/11/Vestia-Zeta_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/11/Vestia-Zeta_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Kaela Kovalskia",
-        "debutDate": "2020-04-10",
+        "debutDate": "March 26, 2022 ",
         "catchphrase": "Yee~",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/09/Kaela-Kovalskia_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/09/Kaela-Kovalskia_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       },
       {
         "name": "Kobo Kanaeru",
-        "debutDate": "2020-04-10",
+        "debutDate": "March 27, 2022",
         "catchphrase": "Yee~",
-        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/11/Kobo-Kanaeru_list_thumb.png"
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2023/11/Kobo-Kanaeru_list_thumb.png",
+        "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_list_thumb.png",
+          "https://hololive.hololivepro.com/wp-content/uploads/2021/05/tokino_sora_thumb.png"
+        ]
       }
     ]
   }

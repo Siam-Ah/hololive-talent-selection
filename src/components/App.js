@@ -2,23 +2,28 @@ import { useState } from "react";
 import Navbar from "./Navbar";
 import TalentDetails from "./TalentDetails";
 import TalentList from "./TalentList";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
 export default function App() {
   const [talentSelected, setTalentSelected] = useState(null);
-  const [favourites, setFavourites] = useState([]);
+  const [favourites, setFavourites] = useState(new Set());
 
   function handleSelectedTalent(talent, generation, region) {
     setTalentSelected({ ...talent, generation: generation, region: region });
   }
 
-  function handleFavourites(talent) {
-    setFavourites((prevFavourites) =>
-      prevFavourites.includes(talent)
-        ? prevFavourites.filter((currTalent) => currTalent !== talent)
-        : [...prevFavourites, talent]
-    );
+  function handleFavourites(talentName) {
+    setFavourites((prevFavourites) => {
+      const newFavourites = new Set(prevFavourites);
+      if (newFavourites.has(talentName)) {
+        newFavourites.delete(talentName);
+      } else {
+        newFavourites.add(talentName);
+      }
+      return newFavourites;
+    });
   }
-
   return (
     <div className="container">
       <Navbar />
