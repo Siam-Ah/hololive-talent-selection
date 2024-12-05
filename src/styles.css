@@ -37,20 +37,21 @@
 
 /* Talent Selector Card */
 .talent-card {
+  position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
   background: #ffffff;
   border-radius: 10px;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-  padding: 15px;
-  width: 300px;
+  padding: 30px;
+  width: 500px;
   margin-bottom: 20px;
 }
 
 .talent-card img {
-  width: 80px;
-  height: 80px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   border: 2px solid #cce1f2;
   margin-bottom: 10px;
@@ -66,13 +67,16 @@
 }
 
 .name {
-  font-size: 18px;
+  font-size: 24px;
   font-weight: 600;
   color: #5a6d8a;
 }
 
 .favorite-icon {
-  font-size: 24px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 45px;
   color: #ff6b6b;
   cursor: pointer;
   margin-left: 10px;
@@ -84,14 +88,14 @@
 }
 
 /* .talent-card .name {
-  font-size: 18px;
-  font-weight: 600;
-  color: #5a6d8a;
-  margin-bottom: 8px;
-} */
+    font-size: 18px;
+    font-weight: 600;
+    color: #5a6d8a;
+    margin-bottom: 8px;
+  } */
 
 .talent-card .details {
-  font-size: 14px;
+  font-size: 16px;
   color: #8fa2b8;
   text-align: center;
 }
@@ -104,14 +108,16 @@
 /* Selector Buttons */
 .button-group {
   display: flex;
+  justify-content: center;
   gap: 10px;
   margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .button {
   background: #e1efff;
   border: none;
-  padding: 8px 12px;
+  padding: 12px 20px;
   border-radius: 6px;
   color: #5a6d8a;
   font-size: 14px;
@@ -123,13 +129,24 @@
   background: #c5dffa;
 }
 
+.active {
+  background: #007bff;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 6px;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
 /* Talent Grid */
 /* .talent-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-  gap: 10px;
-  margin-top: 20px;
-} */
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 10px;
+    margin-top: 20px;
+  } */
 
 .talent-grid {
   display: flex;
@@ -170,6 +187,7 @@
   padding: 20px;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
   position: relative;
+  cursor: pointer;
 }
 
 .favorite-heart {

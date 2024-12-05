@@ -264,6 +264,78 @@
     ]
   },
   {
+    "region": "JP",
+    "generation": "ReGLOSS",
+    "talents": [
+      {
+        "name": "Hiodoshi Ao",
+        "debutDate": "2018-06-01",
+        "catchphrase": "Kyun kyun Rosentai!",
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Hiodoshi-Ao_list_thumb.png"
+      },
+      {
+        "name": "Otonose Kanade",
+        "debutDate": "2018-06-01",
+        "catchphrase": "Kyun kyun Rosentai!",
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Otonose-Kanade_list_thumb.png"
+      },
+      {
+        "name": "Ichijou Ririka",
+        "debutDate": "2018-06-01",
+        "catchphrase": "Kyun kyun Rosentai!",
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Ichijou-Ririka_list_thumb.png"
+      },
+      {
+        "name": "Juufuutei Raden",
+        "debutDate": "2018-06-01",
+        "catchphrase": "Kyun kyun Rosentai!",
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Juufuutei-Raden_list_thumb.png"
+      },
+      {
+        "name": "Todoroki Hajime",
+        "debutDate": "2018-06-01",
+        "catchphrase": "Kyun kyun Rosentai!",
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Todoroki-Hajime_list_thumb.png"
+      }
+    ]
+  },
+  {
+    "region": "JP",
+    "generation": "FLOW GLOW",
+    "talents": [
+      {
+        "name": "Isaki Riona",
+        "debutDate": "2018-06-01",
+        "catchphrase": "Kyun kyun Rosentai!",
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/11/Isaki-Riona_list_thumb.png"
+      },
+      {
+        "name": "Koganei Niko",
+        "debutDate": "2018-06-01",
+        "catchphrase": "Kyun kyun Rosentai!",
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/11/Koganei-Niko_list_thumb.png"
+      },
+      {
+        "name": "Mizumiya Su",
+        "debutDate": "2018-06-01",
+        "catchphrase": "Kyun kyun Rosentai!",
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/11/Mizumiya-Su_list_thumb.png"
+      },
+      {
+        "name": "Rindo Chihaya",
+        "debutDate": "2018-06-01",
+        "catchphrase": "Kyun kyun Rosentai!",
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/11/Rindo-Chihaya_list_thumb.png"
+      },
+      {
+        "name": "Kikirara Vivi",
+        "debutDate": "2018-06-01",
+        "catchphrase": "Kyun kyun Rosentai!",
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/11/Kikirara-Vivi_list_thumb.png"
+      }
+    ]
+  },
+  {
     "region": "EN",
     "generation": "Myth",
     "talents": [
@@ -338,6 +410,72 @@
         "debutDate": "2021-08-23",
         "catchphrase": "Space is amazing!",
         "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2021/08/%E4%B9%9D%E5%8D%81%E4%B9%9D-%E4%BD%90%E5%91%BD-1.png"
+      }
+    ]
+  },
+  {
+    "region": "EN",
+    "generation": "Advent",
+    "talents": [
+      {
+        "name": "Shiori Novella",
+        "debutDate": "2021-08-23",
+        "catchphrase": "Nature loves you!",
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2021/07/Shiori-Novella_list_thumb.png"
+      },
+      {
+        "name": "Koseki Bijou",
+        "debutDate": "2021-08-23",
+        "catchphrase": "Nature loves you!",
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Koseki-Bijou_list_thumb.png"
+      },
+      {
+        "name": "Nerissa Ravencroft",
+        "debutDate": "2021-08-23",
+        "catchphrase": "Nature loves you!",
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Nerissa-Ravencroft_list_thumb.png"
+      },
+      {
+        "name": "Fuwawa Abyssgard",
+        "debutDate": "2021-08-23",
+        "catchphrase": "Nature loves you!",
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Fuwawa-Abyssgard_list_thumb.png"
+      },
+      {
+        "name": "Mococo Abyssgard",
+        "debutDate": "2021-08-23",
+        "catchphrase": "Space is amazing!",
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Mococo-Abyssgard_list_thumb.png"
+      }
+    ]
+  },
+  {
+    "region": "EN",
+    "generation": "Justice",
+    "talents": [
+      {
+        "name": "Elizabeth Rose Bloodflame",
+        "debutDate": "2021-08-23",
+        "catchphrase": "Nature loves you!",
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Elizabeth-Rose-Bloodflame_list_thumb.png"
+      },
+      {
+        "name": "Gigi Murin",
+        "debutDate": "2021-08-23",
+        "catchphrase": "Nature loves you!",
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Gigi-Murin_list_thumb.png"
+      },
+      {
+        "name": "Cecilia Immergreen",
+        "debutDate": "2021-08-23",
+        "catchphrase": "Nature loves you!",
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Cecilia-Immergreen_list_thumb.png"
+      },
+      {
+        "name": "Raora Panthera",
+        "debutDate": "2021-08-23",
+        "catchphrase": "Nature loves you!",
+        "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Raora-Panthera_list_thumb.png"
       }
     ]
   },
