@@ -1,3 +1,8 @@
+DEPLOYMENT: https://hololive-talent-selection.onrender.com/
+Please just keep refreshing until it's open. Service is free so it's slow.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
