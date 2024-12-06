@@ -22,9 +22,9 @@ export default function TalentList({
   useEffect(() => {
     const timeoutId = setTimeout(() => {
       setDebouncedSearch(search);
-    }, 500); // Delay for 500ms
+    }, 500);
 
-    return () => clearTimeout(timeoutId); // Cleanup the timeout on component unmount or before next effect
+    return () => clearTimeout(timeoutId);
   }, [search]);
 
   const filteredTalentData = useMemo(() => {

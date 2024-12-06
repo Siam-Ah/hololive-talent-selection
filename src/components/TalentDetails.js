@@ -23,7 +23,7 @@ export default function TalentDetails({
   return (
     <div className="talent-card">
       <div
-        className="favorite-icon"
+        className="favourite-icon"
         onClick={() => handleFavourites(talent.name)}
       >
         {favourites.has(talent.name) ? "❤️" : "🤍"}

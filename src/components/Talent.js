@@ -12,7 +12,7 @@ export default function Talent({
       onClick={() => handleSelectedTalent(talent, generation, region)}
     >
       <span
-        className="favorite-heart"
+        className="favourite-heart"
         onClick={(e) => {
           e.stopPropagation();
           handleFavourites(talent.name);

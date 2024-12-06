@@ -60,13 +60,14 @@
 .carousel img {
   width: 98%;
   height: auto;
-  max-height: 400px; /* Adjust to fit your design */
-  object-fit: cover; /* Ensures images don't stretch */
+  max-height: 300px;
+  object-fit: cover;
 }
 .carousel {
+  position: relative;
   width: 55%;
-  max-width: 500px; /* Keep consistent with .talent-card width */
-  margin: auto; /* Center the carousel */
+  max-width: 500px;
+  margin: auto;
 }
 
 /* .slick-slide img {
@@ -76,18 +77,19 @@
 } */
 
 .slick-dots {
-  bottom: -20px; /* Adjust spacing for dots */
+  position: relative;
+  bottom: -0px;
 }
 
 .slick-dots li button:before {
-  color: #007bff; /* Custom dot color */
+  color: #007bff;
 }
 
 .slick-dots li.slick-active button:before {
-  color: #ff6b6b; /* Highlight active dot */
+  color: #ff6b6b;
 }
 
-/* Name and Favorite Icon Container */
+/* Name and Favourite Icon Container */
 .name-container {
   display: flex;
   align-items: center;
@@ -103,7 +105,7 @@
   color: #5a6d8a;
 }
 
-.favorite-icon {
+.favourite-icon {
   position: absolute;
   top: 10px;
   right: 10px;
@@ -114,7 +116,7 @@
   transition: transform 0.2s ease-in-out;
 }
 
-.favorite-icon:hover {
+.favourite-icon:hover {
   transform: scale(1.2);
 }
 
@@ -221,7 +223,7 @@
   cursor: pointer;
 }
 
-.favorite-heart {
+.favourite-heart {
   position: absolute;
   top: 8px;
   right: 8px;
@@ -231,7 +233,7 @@
   transition: transform 0.2s ease-in-out;
 }
 
-.favorite-heart:hover {
+.favourite-heart:hover {
   transform: scale(1.2);
 }
 
