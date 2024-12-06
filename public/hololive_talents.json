@@ -119,6 +119,7 @@
         "catchphrase": "Kyun kyun Rosentai!",
         "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Shirakami-Fubuki_list_thumb.png",
         "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Shirakami-Fubuki_list_thumb.png",
           "https://static.wikitide.net/hololivewiki/thumb/c/c6/Shirakami_Fubuki_-_Portrait_01.png/290px-Shirakami_Fubuki_-_Portrait_01.png",
           "https://static.wikitide.net/hololivewiki/thumb/3/3c/Shirakami_Fubuki_-_Portrait_03.png/290px-Shirakami_Fubuki_-_Portrait_03.png",
           "https://static.wikitide.net/hololivewiki/thumb/7/79/Shirakami_Fubuki_-_Portrait_04.png/290px-Shirakami_Fubuki_-_Portrait_04.png",
@@ -229,6 +230,7 @@
         "catchphrase": "Kyun kyun Rosentai!",
         "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Shirakami-Fubuki_list_thumb.png",
         "images": [
+          "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Shirakami-Fubuki_list_thumb.png",
           "https://static.wikitide.net/hololivewiki/thumb/c/c6/Shirakami_Fubuki_-_Portrait_01.png/290px-Shirakami_Fubuki_-_Portrait_01.png",
           "https://static.wikitide.net/hololivewiki/thumb/3/3c/Shirakami_Fubuki_-_Portrait_03.png/290px-Shirakami_Fubuki_-_Portrait_03.png",
           "https://static.wikitide.net/hololivewiki/thumb/7/79/Shirakami_Fubuki_-_Portrait_04.png/290px-Shirakami_Fubuki_-_Portrait_04.png",
@@ -828,7 +830,8 @@
         "avatar": "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Koseki-Bijou_list_thumb.png",
         "images": [
           "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Koseki-Bijou_list_thumb.png",
-          "https://static.wikitide.net/hololivewiki/thumb/9/9f/Koseki_Bijou_-_Portrait_01.png/300px-Koseki_Bijou_-_Portrait_01.png"
+          "https://static.wikitide.net/hololivewiki/thumb/9/9f/Koseki_Bijou_-_Portrait_01.png/300px-Koseki_Bijou_-_Portrait_01.png",
+          "bijou.png"
         ]
       },
       {
