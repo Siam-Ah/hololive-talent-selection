@@ -1,5 +1,5 @@
-DEPLOYMENT: https://hololive-talent-selection.onrender.com/
-Please just keep refreshing until it's open. Service is free so it's slow.
+DEPLOYMENT: https://holo-selector.netlify.app/
+
 
 
 
