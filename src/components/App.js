@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Navbar from "./Navbar";
 import TalentDetails from "./TalentDetails";
 import TalentList from "./TalentList";
@@ -7,7 +7,18 @@ import "slick-carousel/slick/slick-theme.css";
 
 export default function App() {
   const [talentSelected, setTalentSelected] = useState(null);
-  const [favourites, setFavourites] = useState(new Set());
+  // const [favourites, setFavourites] = useState(new Set());
+  const [favourites, setFavourites] = useState(function () {
+    const storedValue = localStorage.getItem("favourites");
+    return new Set(JSON.parse(storedValue));
+  });
+
+  useEffect(
+    function () {
+      localStorage.setItem("favourites", JSON.stringify([...favourites]));
+    },
+    [favourites]
+  );
 
   function handleSelectedTalent(talent, generation, region) {
     setTalentSelected({ ...talent, generation: generation, region: region });
